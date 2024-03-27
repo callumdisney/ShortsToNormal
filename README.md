@@ -1,9 +1,7 @@
 # YouTube Shorts URL to Normal URL
 
 ## What?
-This small program converent a YouTube Shorts URL (i.e. https://www.youtube.com/shorts/jiiwJx2QW-E) into a regular YouTube URL (i.e. https://www.youtube.com/watch?v=jiiwJx2QW-E).
-
-
+This small program converts a YouTube Shorts URL (i.e. https://www.youtube.com/shorts/jiiwJx2QW-E) into a regular YouTube URL (i.e. https://www.youtube.com/watch?v=jiiwJx2QW-E).
 
 ## When?
 I began this on 24th December 2022. It is only on GitHub as of 23rd May 2023 due to the fact that I uploaded it on that date.
